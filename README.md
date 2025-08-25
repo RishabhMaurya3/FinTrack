@@ -46,12 +46,12 @@ FinTrack is a full-stack web application that helps users efficiently manage the
 - Fallback API available for expense creation without receipt upload.
 
 
-🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MySQL
-Authentication: JWT
-Chart: Charts.js
+## 🛠️ Tech Stack
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Authentication: JWT
+- Chart: Charts.js
 ---
 
 ---
