@@ -1,6 +1,6 @@
 # 💸 FinTrack - Personal Finance Management App
 
-FinTrack is a full-stack web application that helps users efficiently manage their personal finances by tracking **income**, **expenses**, **budgets**, and analyzing financial trends with interactive visualizations.
+FinTrack is a full-stack web application, smart personal finance management application designed to help users seamlessly track, manage, and analyze their income, expenses, and savings. With an intuitive dashboard, FinTrack empowers individuals to gain better control over their financial journey by providing real-time insights, visual analytics, and budget planning tools.
 
 
 ## 🚀 Features
