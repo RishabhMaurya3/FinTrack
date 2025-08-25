@@ -38,11 +38,6 @@ FinTrack is a full-stack web application that helps users efficiently manage the
 ### 🌗 Dark Mode Support
 - Toggle between light and dark themes for enhanced user experience.
 
----
-
-
-
----
 
 ## 🧾 Receipt Upload Support
 
