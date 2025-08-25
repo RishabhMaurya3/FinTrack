@@ -76,8 +76,3 @@ xpensify/
 └── README.md
 
 ```
-
-### Pratham Sachan
-### 🎓 IIIT Surat – Electronics & Communication Engineering
-### 🌐 [LinkedIn](www.linkedin.com/in/prathamsachan8756924) | 📬 [Email](prathamsachan6886@gmail.com)
-
